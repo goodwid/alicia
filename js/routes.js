@@ -2,7 +2,7 @@
   var routes = {};
 
   routes.setRouteMappings = function() {
-    page.base('/');
+    page.base('~alicia');
 
     page('/', homeController.index);
     page('about', aboutController.index);
