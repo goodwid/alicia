@@ -1,11 +1,5 @@
-@media only screen and (max-width: 1300px) {
-  /*aside  {
-    display: none;
-  }*/
-
-
-/*}
-@media screen and (max-width: 750px) and (min-width: 1099px;) {*/
+@media only screen and (max-width: 1038px) {
+/*  @media screen and (max-width: 750px) and (min-width: 1099px;) {  */
   body {
     overflow: hidden;
   }
@@ -25,10 +19,6 @@
     position: absolute;
     top: 150px;
     bottom: 30px;
-  }
-
-  aside  {
-    display: none;
   }
 
   nav {
@@ -73,15 +63,5 @@
     position: absolute;
     top: 0px;
     left: 10px;
-  }
-
-  #show-filter {
-    display: none;
-  }
-
-  #info {
-    /*position: relative;*/
-    width: 100%;
-    min-width: 30%;
   }
 }
